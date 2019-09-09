@@ -16,7 +16,7 @@ export function IndexPage(props: {}) {
       <hr/>
 
       <p>
-        Free domains available to EAYA Students, Faculty, classes and clubs.
+        Free domains available to EAYA Scholars, Faculty, classes and clubs.
         Brought to you by the fine folks at the&nbsp;
         <a href="https://hackclub.eaya.io/">
           EAYA Hack Club
