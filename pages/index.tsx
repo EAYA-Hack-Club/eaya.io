@@ -1,5 +1,10 @@
+import Head from "next/head";
+
 export function IndexPage(props: {}) {
   return <div>
+    <Head>
+      <title>eaya.io</title>
+    </Head>
     <div className="card">
       <h1>eaya.io</h1>
       <h3>The EA Young Academy TLD</h3>
@@ -22,7 +27,10 @@ export function IndexPage(props: {}) {
 
       <ul>
         <li>
-          <a href="https://github.com/EAYA-Hack-Club/club-website/">
+          <a href="http://www.eayoungacademy.com/">
+            Official Website
+          </a>
+          <a href="https://github.com/EAYA-Hack-Club/eaya.io/">
             Source Code
           </a>
         </li>

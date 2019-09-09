@@ -1,7 +1,7 @@
 {
-  "name": "eaya-hack-club-website",
+  "name": "eaya-io",
   "version": "1.0.0",
-  "description": "A Website for EAYA Hack Club",
+  "description": "A Website for eaya.io",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
