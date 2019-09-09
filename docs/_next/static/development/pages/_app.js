@@ -10026,7 +10026,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ben/Workspace/eaya-io/club-website/pages/_app.tsx";
+var _jsxFileName = "/Users/ben/Workspace/eaya-hack-club/eaya-io/pages/_app.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement;
 
 
@@ -10084,7 +10084,7 @@ function (_App) {
         __self: this
       }), __jsx("style", {
         dangerouslySetInnerHTML: {
-          __html: "\n            body {\n              font-family: \"Cabin\", sans-serif;\n              background-color: rgb(206, 41, 60);\n              background-image: linear-gradient(rgb(228, 115, 45), rgb(206, 41, 143));\n              background-size: 100vw 100vh;\n              background-attachment: fixed;\n\n              font-weight: 400;\n            }\n        "
+          __html: "\n            body {\n              font-family: \"Cabin\", sans-serif;\n              background-color: rgb(206, 41, 60);\n              background-image: linear-gradient(#FB40FF, #563AE8);\n              background-size: 100vw 100vh;\n              background-attachment: fixed;\n\n              font-weight: 400;\n            }\n        "
         },
         __source: {
           fileName: _jsxFileName,
