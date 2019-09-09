@@ -7,21 +7,36 @@ export function IndexPage(props: {}) {
     </Head>
     <div className="card">
       <h1>eaya.io</h1>
-      <h3>The EA Young Academy TLD</h3>
+      <h3>The EA Young Academy 2LD</h3>
 
       <div style={{fontWeight: 700, paddingTop: 8}}>
         Want one? Shoot an email to Ben Aubin.
       </div>
 
       <hr/>
-        
+
       <p>
-        
+        Free domains available to all EAYA Students, Faculty, classes and clubs.
+        Brought to you by the fine folks at the&nbsp;
+        <a href="https://hackclub.eaya.io/">
+          EAYA Hack Club
+        </a>.
       </p>
 
       <p>
-        Available to all EAYA Students, Faculty, classes and clubs.
+        Content on <code>eaya.io</code> domains is not necessarily school approved.
+        Make sure to follow the policies in the scholar handbook - and don't be a moron.
       </p>
+
+      <h4>Sites:</h4>
+
+      <ul>
+        <li>
+          <a href="https://hackclub.eaya.io/">
+            hackclub.eaya.io
+          </a>
+        </li>
+      </ul>
 
       <h4>Resources:</h4>
 
