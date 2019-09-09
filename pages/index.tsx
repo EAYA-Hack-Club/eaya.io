@@ -3,10 +3,10 @@ import Head from "next/head";
 export function IndexPage(props: {}) {
   return <div>
     <Head>
-      <title>eaya.io</title>
+      <title>.eaya.io</title>
     </Head>
     <div className="card">
-      <h1>eaya.io</h1>
+      <h1>.eaya.io</h1>
       <h3>The EA Young Academy 2LD</h3>
 
       <div style={{fontWeight: 700, paddingTop: 8}}>
