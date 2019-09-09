@@ -30,6 +30,8 @@ export function IndexPage(props: {}) {
           <a href="http://www.eayoungacademy.com/">
             Official Website
           </a>
+        </li>
+        <li>
           <a href="https://github.com/EAYA-Hack-Club/eaya.io/">
             Source Code
           </a>
