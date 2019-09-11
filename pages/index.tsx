@@ -10,7 +10,7 @@ export function IndexPage(props: {}) {
       <h3>The EA Young Academy 2LD</h3>
 
       <div style={{fontWeight: 700, paddingTop: 8}}>
-        Want one? 
+        Want one?&nbsp;
         <a href="https://github.com/EAYA-Hack-Club/dns">Add it here</a>.
       </div>
 
